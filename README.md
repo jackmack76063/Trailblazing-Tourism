@@ -75,7 +75,7 @@ Countries like Liechtenstein and Germany have far more trails relative to their 
 
 ## Full Report
 
-See [`CS332_Full_Report.pdf`](./CS332_Full_Report.pdf) for the complete write-up, including all visualizations, methodology detail, and source citations.
+See [`Project_Report.pdf`](./Project_Report.pdf) for the complete write-up, including all visualizations, methodology detail, and source citations.
 
 ---
 *Built for CS 332: Intro to Data Science at Oregon State University.*
