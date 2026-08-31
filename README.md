@@ -6,7 +6,7 @@ A data science project analyzing what drives international hiking tourism — co
 
 International tourism represents roughly 10% of the global economy, and hiking is one of its fastest-growing segments. This project asks: **what actually predicts a country's hiking tourism** — trail difficulty, climate, accessibility, or something else? To answer it, I gathered and merged three independent datasets, built a full cleaning/normalization pipeline, and applied both unsupervised (K-Means clustering) and supervised (decision tree) machine learning models.
 
-This topic is personal — I grew up in Moab, Utah, a town built around outdoor tourism, and wanted to explore the patterns behind why people travel for hiking the way they do.
+I grew up in Moab, Utah, a town built around outdoor tourism, and wanted to explore the patterns behind why people travel for hiking the way they do.
 
 ## Research Questions
 
