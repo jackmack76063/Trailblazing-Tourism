@@ -1,0 +1,54 @@
+Country,TrailCount,HardPercent,EasyPercent,AvgLen_mi,AvgElevGain_ft,AvgRating,ReviewCount,TrailLevel
+Albania,59,0.7,0.05,6.93,2562.1,4.3,5975,Low Trails
+Algeria,4,0.5,0.25,19.7,1140.5,4.4,23,Low Trails
+Australia,18729,0.2,0.1,5.21,1058.5,4.2,1253359,High Trails
+Austria,8419,0.3,0.05,5.66,1351.9,4.3,80138,High Trails
+Belize,36,0.25,0.15,2.81,530.0,4.5,956,Low Trails
+Brazil,9527,0.45,0.1,4.86,1748.5,4.5,27756,High Trails
+Canada,29814,0.42,0.1,4.925,1710.05,4.2,4085482,High Trails
+Chile,2280,0.45,0.15,10.02,2449.2,4.4,39530,Moderate Trails
+China,548,0.75,0.1,7.48,29280.0,4.3,7924,Moderate Trails
+Colombia,2047,0.55,0.05,6.05,1681.9,4.5,13714,Moderate Trails
+Costa Rica,1589,0.05,0.15,3.01,624.0,4.4,30115,Moderate Trails
+Croatia,4192,0.2,0.2,4.99,917.7,4.3,46101,Moderate Trails
+Cuba,21,0.25,0.3,8.8,1169.5,4.6,152,Low Trails
+Denmark,9079,0.05,0.1,8.42,787.2,4.1,191757,High Trails
+Dominican Republic,81,0.4333333333,0.1,11.04,3062.9,4.5,1903,Low Trails
+Ecuador,227,0.6,0.1,7.71,5801.6,4.4,9330,Low Trails
+Estonia,262,0.0,0.35,4.84,422.1,4.3,3309,Low Trails
+Fiji,9,0.5555555556,0.1111111111,12.54444444,11272.4,4.6,255,Low Trails
+Finland,5561,0.2,0.1,4.48,701.0,4.2,18772,High Trails
+France,39816,0.34,0.0,5.3025,1507.65,4.2,1154426,High Trails
+Georgia,208,0.7,0.0,10.02,3312.2,4.4,8691,Low Trails
+Germany,37885,0.15,0.25,4.06,1010.8,4.1,282913,High Trails
+Greece,3787,0.3,0.05,4.52,1598.7,4.1,83454,Moderate Trails
+Honduras,77,0.45,0.15,4.59,1784.7,4.5,850,Low Trails
+Hungary,3189,0.1,0.15,5.94,1163.0,4.3,16780,Moderate Trails
+Iceland,652,0.2,0.4,5.07,1159.3,4.4,90741,Moderate Trails
+Japan,5833,0.48,0.04,5.545,1840.25,4.2,62140,High Trails
+Kazakhstan,25,0.65,0.05,6.515,2224.8,4.5,734,Low Trails
+Kenya,20,0.45,0.35,8.95,3220.6,4.6,1146,Low Trails
+Liechtenstein,315,0.5,0.1,5.79,1585.8,4.2,1919,Low Trails
+Madagascar,23,0.4,0.15,15.93,3100.8,4.6,121,Low Trails
+Malaysia,4986,0.25,0.0,2.53,1090.1,4.3,194055,Moderate Trails
+Mongolia,1,1.0,0.0,7.0,2572.0,4.5,52,Low Trails
+Montenegro,80,0.7,0.05,7.03,2318.7,4.4,6113,Low Trails
+Morocco,24,0.15,0.3,6.23,2342.3,4.3,2470,Low Trails
+Namibia,33,0.05,0.35,5.02,1026.6,4.5,174,Low Trails
+Nepal,67,0.9,0.05,26.6,12385.9,4.4,7691,Low Trails
+New Zealand,5627,0.6,0.05,6.41,2504.1,4.3,358492,High Trails
+Norway,9124,0.5,0.05,5.94,2128.7,4.2,168672,High Trails
+Peru,2012,0.9,0.0,6.36,2195.3,4.5,26877,Moderate Trails
+Philippines,1891,0.6,0.15,3.86,1274.2,4.2,5085,Moderate Trails
+Portugal,9433,0.2,0.1,5.08,1845.5,4.1,258188,High Trails
+Romania,1175,0.6,0.05,5.86,2367.4,4.4,7485,Moderate Trails
+Slovenia,657,0.25,0.2,4.04,967.1,4.3,24756,Moderate Trails
+Spain,23696,0.55,0.0,6.3,1715.5,4.1,455144,High Trails
+Sweden,8283,0.0,0.15,5.46,718.7,4.1,112338,High Trails
+Switzerland,16413,0.3,0.12,4.42,1046.222222,4.3,243491,High Trails
+Tanzania,21,0.8,0.05,177.5,6068.1,4.8,2016,Low Trails
+Thailand,2537,0.38,0.04,4.13,7964.95,4.0,30018,Moderate Trails
+Turkey,120,0.3,0.15,7.02,1339.1,4.3,13503,Low Trails
+United Kingdom,25615,0.2,0.0,7.96,1930.7,4.3,2238887,High Trails
+United States,112912,0.68,0.02,5.144,1458.15,4.3,34882746,High Trails
+Vietnam,160,0.25,0.1,4.108,1567.1,4.3,9684,Low Trails
